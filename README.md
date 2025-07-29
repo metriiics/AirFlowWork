@@ -1,7 +1,13 @@
 # AirFlowWork
 
-sreenSuccessDag.png
+<p align="center">
+  <img src="ScreenShots/screenWithDag.png" alt="Database Structure" width="800"> 
+</p>
 
-ScreenWithPredictions.png
+<p align="center">
+  <img src="ScreenShots/sreenSuccessDag.png" alt="Database Structure" width="800"> 
+</p>
 
-<img src='screenWithDag.png' />
+<p align="center">
+  <img src="ScreenShots/ScreenWithPredictions.png" alt="Database Structure" width="800"> 
+</p>
